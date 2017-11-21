@@ -1,0 +1,30 @@
+
+#loginForm{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+#scoreLabel{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-size: 2em;
+    color: black;
+}
+#scoreSpan{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    font-size: 4em;
+    color: red;
+}
+#borderID{
+    border-top: 3px dotted grey;
+    padding-top: 2%;
+}
+#create_account_div{
+    margin-left: 40%;
+}
+#create_button{
+    margin-left: 40%;
+}
